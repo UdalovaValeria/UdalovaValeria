@@ -7,3 +7,9 @@ if (age < 18) {
 } else {
     console.log("Доступ разрешён!");
 }
+
+// Задание 2. Тернарный оператор 
+
+let age2 = Numder (prompt("Введите свой возрат."));
+const result = (age2 < 18) ? "Доступ запрещен!" : "Доступ разрешен!";
+    console.log(result);
