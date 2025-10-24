@@ -67,3 +67,4 @@ function printRange(start, end) {
     return result;
 }
 console.log(printRange(3, 7));
+// Подсчёт цифр
